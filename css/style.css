@@ -1,0 +1,55 @@
+*{ 
+    margin: 0;
+}
+header{
+    height: 100px;
+    background-color: cornflowerblue;
+    text-align: center;
+    color: black;
+}
+.block{
+    overflow: hidden;
+}
+.left_block{
+    width: 20%;
+    height: 500px;
+    background-color: mediumpurple;
+    text-align: center;
+    color: black;
+    float: left;
+}
+.center_block{
+    width: 60%;
+    height: 500px;
+    background-color: bisque;
+    text-align: center;
+    color: black;
+    float: left;
+    overflow: hidden;
+}
+.right_block{
+    width: 20%;
+    height: 500px;
+    background-color: mediumpurple;
+    text-align: center;
+    color: black;
+    float: left;
+}
+.top{
+    height: 30%;
+    background-color: olivedrab;
+}
+.middle{
+    height: 40%;
+    background-color: bisque;
+}
+.bottom{
+    height: 30%;
+    background-color: olivedrab;
+}
+footer{
+    height: 50px;
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+}
